@@ -262,4 +262,3 @@
     <img src="https://api.qrserver.com/v1/create-qr-code/?data=https://www.example.com&size=150x150" alt="QR Code">
 </html>
 
-موقع جزائري لحيوانات مهدد بالانقراض ,تصفح و اختار حيوانك(ليس الان الموقع قيد التطوير) يمكنك تغير اللغة ان اردت و استخراج صور ان اردت 
